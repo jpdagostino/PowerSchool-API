@@ -1,5 +1,5 @@
 {
-  "name": "powerschool-api",
+  "name": "psapi",
   "version": "1.1.1",
   "description": "A Node.js library for interacting with the PowerSchool API.",
   "main": "index.js",
